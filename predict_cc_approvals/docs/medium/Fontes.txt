@@ -1,0 +1,11 @@
+<a href="https://www.flaticon.com/free-icons/ingestion" title="ingestion icons">Ingestion icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/data-cleansing" title="data cleansing icons">Data cleansing icons created by Ida Desi Mariana - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/data-processing" title="data processing icons">Data processing icons created by Uniconlabs - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/data-flow" title="data-flow icons">Data-flow icons created by SBTS2018 - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/decision" title="decision icons">Decision icons created by noomtah - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/deployment" title="deployment icons">Deployment icons created by Muhammad Ali - Flaticon</a>
